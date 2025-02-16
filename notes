@@ -1,0 +1,10 @@
+Temporary installation for testing: https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox/
+Debugging: https://extensionworkshop.com/documentation/develop/debugging/
+
+Signing: https://addons.mozilla.org/developers/addons
+  email: mozilla@gllghr.com
+  password-name: mozilla
+
+Installing: https://extensionworkshop.com/documentation/publish/distribute-sideloading/
+
+Download the signed .xpi and emailed it to myself and installed on each machine
