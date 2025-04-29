@@ -1,4 +1,9 @@
-Temporary installation for testing: https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox/
+Temporary installation for testing (from https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox/)
+
+  1. Go to about:debugging#/runtime/this-firefox
+  2. Click "Load Temporary Add-on"
+  3. Select the .xpi file from the target/ directory
+
 Debugging: https://extensionworkshop.com/documentation/develop/debugging/
 
 Signing: https://addons.mozilla.org/developers/addons

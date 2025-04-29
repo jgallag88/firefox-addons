@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "NoYouTubeShorts",
+  "version": "1.1",
+
+  "description": "Forces YouTube Shorts to play in the same player as normal videos",
+
+  "permissions": [
+     "webRequest",
+     "webRequestBlocking",
+     "*://www.youtube.com/"
+  ],
+
+  "background": {
+    "scripts": ["redirect.js"]
+  }
+}
